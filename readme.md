@@ -8,7 +8,7 @@ All polls in #nouncil-votes have the following options: FOR, AGAINST, or a Nounc
 
 ### Voting Period:
 
-All Nouncil polls are open for 7 days (168 hours), after which voting will close. Late votes will not be accepted.
+All Nouncil polls are open for 5 days (120 hours), after which voting will close. Late votes will not be accepted.
 
 ### Voting Quorum: 
 
@@ -26,7 +26,7 @@ Current Vote Threshold: 21%
 
 If a Nouncillor has voted on a poll and wants to change their vote before it closes they can DM Joel Cares to delete their old vote. This can only be done once per poll, and they are responsible for processing their updated vote.
 
-###Voting Results:
+### Voting Results:
 
 If quorum is not met a poll is inconclusive.
 
