@@ -64,7 +64,7 @@ An Active Nouncillor is a Nouncillor who has a vote participation rate  of 69% o
 This status will be used to determine eligibility for various grant programs. For instance, only Active Nouncillors are eligible for the regular Community Grants allocations.
 
 ### Minimum Vote Participation Rate
-Current Minimum Vote Participation Rate: 10%
+Current Minimum Vote Participation Rate: 20%
 
 If a Nouncillor’s vote participation falls below the minimum they will be automatically removed from Nouncil. They are welcome to apply again at any time, but all Nouncil voting records will start from scratch.
 
