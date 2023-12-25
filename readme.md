@@ -44,11 +44,17 @@ If a vote meets quorum, a single vote option has the most votes, and those votes
 To be eligible for membership in Nouncil an individual must demonstrate a track record of Nounish Building.
 
 ### New Members:
-New members can join the Nouncil Discussion Channel at any time and engage in (respectful) dialog and discussion. 
+New members can join the Nouncil Discussion Channel at any time and engage in (respectful) dialog and discussion.
 
-To apply to be a voting Nouncillor fill out the form at: https://form.addressform.io/f/nouncil-apply-for-membership
+To join Nouncil you must head to Nouncil Discord and, in the #nouncil-apply chanel, ask to join Nouncil. Please include a summary of your Nounish activities and any relevant social media links.
 
-Once a Month on the 1st of the month, the Nouncil will discuss the Current Waiting list and vote to add eligible new members. 
+Any Nouncillor can put an application up to vote using the command `/nerman create-poll` in #nouncil-votes. Nomination polls must clearly state who is applying, tag them, and link to their application message.
+
+When voting on a new member Nouncillors should evaluate the application on the following criteria:
+-Are they a Nounish builder?
+-Have they shipped or worked on any Nounish projects/products?
+-Do they have a track record of execution?
+-Are they a unique person and not an alt account for any existing Nouncillor?
 
 ### Removal of Members: 
 Should it be appropriate to remove a member of the Nouncil due to behavior unbecoming a Nouncillor, or project termination, any 2 members of the Nouncil can suggest the removal of said member, which will then be put to a binding Nouncil vote. Removing a Nouncillor requires a majority decision (> 51% of Nouncillors)
