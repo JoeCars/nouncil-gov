@@ -37,6 +37,9 @@ If a poll results in a tie it is inconclusive.
 Inconclusive polls will be processed as ABSTAIN in external governance such as Nouns DAO.
 If a vote meets quorum, a single vote option has the most votes, and those votes meet or pass the Vote Threshold, that vote option will be considered the winner in a binding Nouncil decision.
 
+### Gov Config Changes
+Any Nouncillor can create a poll in #nouncil-votes to change governance values. If a poll specifying governance changes passes that change has been officially accepted.
+Currently these changes must be manually applied by admin. Unless a timeline is specified the admin will strive to make the changes ASAP. In the event of conflicting changes passing before admin execution, the completed governance changes will be added to a queue and executed in the order they were passed, with a timeline similar to the timeline of the config polls passing.
 
 ## Members
 
